@@ -15,10 +15,26 @@
 ###### Выбери сайт для тестирования. Ты будешь использовать его на протяжении всего обучения. Нужно, чтоб на сайте была возможность регистрации. Создай чек-лист на 25 пунктов в Google Docs.  В решение отправь ссылку на Гугл-документ.
 Ответ на задание: https://docs.google.com/spreadsheets/d/1sqTNaV8ixGwnt0TTfZKw5IRxkARp74syvuQTjCpyZgE/edit?usp=sharing
 
+##### Задание4: Практическая работа с Test Rail
+###### Создай 10 тест кейсов в TestRail. Разбей их минимум на 2 тест сьюта (секции). Протестируй свои 10 тест кейсов и создай Тест-Репорт. Добавь pdf с тест кейсами в Google Drive, и оттуда скопируй ссылку в решение.
+Ответ на задание: https://drive.google.com/file/d/1gw4gCcFEFoztoiCDv8E5aw7vzIIpYwGP/view?usp=sharing и https://drive.google.com/file/d/1U08QADtReYlyPGOp0e0y1KJ_mCPq6HJp/view?usp=sharing
+
+##### Задание5:Поиск багов и оформление баг-репортов
+###### На сайте https://exe.ua/ найди минимум 5 багов и заведи баг-репорты. НЕ ЗАБУДЬ добавить скриншот к каждому багу.
+Ответ на задание: https://docs.google.com/spreadsheets/d/1O1oZEF9h2ye6S_6mf20LtbfEnQTt62gZ1xryDEkVkD4/edit?usp=sharing
+
+##### Задание6: Практика в поиске багов
+######  Найти от 15 багов на картинке по ссылке: https://drive.google.com/file/d/1zA0LXuIWUnUcpvGfLHoryYaaYOzWVJNZ/view?usp=sharing Написать заголовки багов и скриншот (баг-репорты составлять не надо)
+Ответ на задание: https://docs.google.com/document/d/1vOx9Bc3uKcAILI0BSPs-GzRqdvQAkv4RZW1IC-69waU/edit?usp=sharing
+
 ### Раздел 3: Делаем тестирование качественным
 
 ### Раздел 4: Версии и система контроля версий Git
+##### Задание7: Практика с Версий
+######  Найди версии программ на своем телефоне и ПК.
+Ответ на задание: -Google chrome на ПК/Ноуте 103.0.5060.71, -Google chrome/Safari на мобильном 104.0.5112.81, -Версия мобильного MIUI Global 12.0.1 | Стабильная 12.0.1.0 (PEXMIXM), -Telegram version Telegram для Android v8.9.0 (2750) store bundled arm64-v8a и 4.1 на ПК, -Viber version 18.1.1.0, -Программа для музыки 6.6.13.071921i-969, -Microsoft Word, Excel Microsoft 365, -Instagram 247.0.0.17.113, - программа на телефоне XMEye 1.6.3.3, -Zoom 5.9.3 (3169)
 
 ##### Задание 8: Практика с Git 
+
 ##### Задание 9: Задание с "XML"
 ###### https://jsonformatter.org/xml-formatter    створення xml-файлу  https://drive.google.com/file/d/1h90JZlfOaqzDlE0NiIcfJYuqMrwG_v1v/view?usp=sharing
