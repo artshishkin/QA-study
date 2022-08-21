@@ -10,3 +10,4 @@
 ### Раздел 4: Версии и система контроля версий Git
 
 ##### Задание 8: Практика с Git 
+https://jsonformatter.org/xml-formatter    створення xml-файлу  https://drive.google.com/file/d/1h90JZlfOaqzDlE0NiIcfJYuqMrwG_v1v/view?usp=sharing
