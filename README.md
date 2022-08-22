@@ -41,3 +41,8 @@
 
 ### Раздел 5
 Selenium IDE
+
+### Раздел 6
+##### Задание 10: Задание с JSON
+######  Создай Json-файл, который содержит массив из 5 элементов (например, людей, которые имеют Имя, возраст, город проживания, профессию). Файлы создают просто в блокноте или можно использовать https://jsoneditoronline.org/ https://jsonformatter.org/json-parser
+Ответ на задание:https://drive.google.com/file/d/11jBqqCTUYpufbeJSDg6P9G0OXCtNkwR4/view?usp=sharing
