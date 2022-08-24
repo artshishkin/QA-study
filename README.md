@@ -46,3 +46,8 @@ Selenium IDE
 ##### Задание 10: Задание с JSON
 ######  Создай Json-файл, который содержит массив из 5 элементов (например, людей, которые имеют Имя, возраст, город проживания, профессию). Файлы создают просто в блокноте или можно использовать https://jsoneditoronline.org/ https://jsonformatter.org/json-parser
 Ответ на задание:https://drive.google.com/file/d/11jBqqCTUYpufbeJSDg6P9G0OXCtNkwR4/view?usp=sharing
+
+##### Задание 11: Практика с Fiddler
+######  Установи Fiddler Everywhere. Поставь фильтр, чтоб показывало запросы только с petstore.swagger в ссылке. Протестируй все запросы из категорий store и users на сайте https://petstore.swagger.io/ так, как я работала с категорией pets на видео.
+Ответ на задание:https://drive.google.com/file/d/1F2KyzN1G7MrLJlDaLbsU35CnGy9Bj2ZS/view?usp=sharing и https://drive.google.com/file/d/1p5Cj1n4fTT5S5nTj73xNkpR6V8-iUwY3/view?usp=sharing
+
