@@ -51,3 +51,6 @@ Selenium IDE
 ######  Установи Fiddler Everywhere. Поставь фильтр, чтоб показывало запросы только с petstore.swagger в ссылке. Протестируй все запросы из категорий store и users на сайте https://petstore.swagger.io/ так, как я работала с категорией pets на видео.
 Ответ на задание:https://drive.google.com/file/d/1F2KyzN1G7MrLJlDaLbsU35CnGy9Bj2ZS/view?usp=sharing и https://drive.google.com/file/d/1p5Cj1n4fTT5S5nTj73xNkpR6V8-iUwY3/view?usp=sharing
 
+##### Задание 12: Практика с Postman
+###### Установи Postman. Протестируй все запросы из категорий store и users на сайте https://petstore.swagger.io/ так, как я работала с категорией pets на видео. Добавь скрины Postman'a, где видно, какие запросы были протестированы и какой у них результат.
+Ответ на задание:https://docs.google.com/document/d/16dg4exNQLGR5VqJWi33uY1XgPIs15_WfJQWrgvZjV04/edit?usp=sharing и https://docs.google.com/document/d/1ZMsVZZZKmswlKo9n3_1uZN-H572xLLy-SsPzBAPs_iQ/edit?usp=sharing
