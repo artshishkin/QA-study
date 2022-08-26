@@ -1,0 +1,42 @@
+{
+  "seller": [
+    {
+      "name": "Iren",
+      "last name": "Dobryden",
+      "date of birth": "02.05.1990",
+      "phone": "+38099999999999",
+      "mail": "ew@gmail.com"
+    },
+    {
+      "name": "Nina",
+      "last name": "Polka",
+      "date of birth": "22.12.1989",
+      "phone": "+38099999999998",
+      "mail": "trh@gmail.com",
+      "kod": "1435435343634"
+    },
+    {
+      "name": "Iren",
+      "last name": "Zima",
+      "date of birth": "23.11.1990",
+      "phone": "+38099999999888",
+      "mail": "eyuoyu@gmail.com"
+    },
+    {
+      "name": "Oleg",
+      "last name": "Poron",
+      "date of birth": "22.12.1989",
+      "phone": "+38099994499998",
+      "mail": "trh@gmail.com",
+      "kod": "5673543534334"
+    },
+    {
+      "name": "Mila",
+      "last name": "Moroz",
+      "date of birth": "12.09.2000",
+      "phone": "+38099999777998",
+      "mail": "dfhdfh@gmail.com",
+      "kod": "2335435343634"
+    }
+  ]
+}

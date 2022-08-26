@@ -1,0 +1,17 @@
+<toyshop>
+	<dolls>
+		<Barbie pregnant="пузик" height="10 см">Барби мама</Barbie>
+		<Ken color="блондин" height="10 см">Кен</Ken>
+		<Pitt сclothing="пуховик" color="брюнет" height="11 см">Питт</Pitt>
+		<Masfa>Маша</Masfa>
+	</dolls>
+	<car>
+		<racing little="10 см">Гоночная</racing>
+		<truck>Грузовик</truck>
+	</car>
+	<puzzle>
+		<bigpuz little="30 см">Большие элементы</bigpuz>
+		<puz number="1000">Маленькие элементы</puz>
+	</puzzle>
+	<book/>
+</toyshop>
