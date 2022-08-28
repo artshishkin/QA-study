@@ -1,5 +1,5 @@
-#### [Теоретические материалы](/http://www.json.org/json-ru.html)
+#### [Теоретические материалы](http://www.json.org/json-ru.html)
 
-#### Созданный [Json-файл](Задание10_JSON_jsonformatter.txt) в [json-parser](/https://jsonformatter.org/json-parser), который содержит массив из 5 или более элементов. 
+#### Созданный [Json-файл](Задание10_JSON_jsonformatter.txt) в [json-parser](https://jsonformatter.org/json-parser), который содержит массив из 5 или более элементов. 
 
 **Ответ преподавателя:** Создан массив из 5 элементов. Каждый элемент имеет от 5 до 6 показателей. Молодец:)
