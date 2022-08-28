@@ -4,5 +4,4 @@
 #### Пример работы Selenium IDE
 ![Пример работы Selenium IDE](work_Selenium.png "Пример работы Selenium IDE")
 
-#### Пример работы с сайтом yakaboo
-![Пример работы с сайтом yakaboo](www.yakaboo.ua.side "Пример работы с сайтом yakaboo")
+#### Пример работы с сайтом [yakaboo](/www.yakaboo.ua.side)
