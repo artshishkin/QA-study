@@ -27,38 +27,8 @@
 
 
 ### Типы и уровни тестирования
-**Изучены типы тестирования:**
 
-1. Functional testing:
-- security;
-- interoperability;
-- Functional.
-2. Non-functional:
-- performance (Load, Stress, Volume);
-- Usability;
-- Configuration;
-- UI/gui;
-- localization;
-- internationalization.
-3. Changes related:
-- Regression;
-- Re-testing;
-- Smoke;
-- Sanity.
-4. Еще типы тестирования:
-- accessibility;
-- End to Enf or e2e;
-- Ad-hoc;
-- install/uninstall.
-
-**Изучены уровни тестирования:**
-
-1. Unit, module, component testing.
-2. Integration testing.
-3. System testing.
-4. Acceptance testing.
-5. Alpha testing.
-6. Beta testing.
+**Изучены типы и уровни тестирования по разным классификациям.**
 
 [Пример](/%D0%A3%D1%80%D0%BE%D0%B2%D0%BD%D0%B8%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC_%D1%80%D1%83%D1%87%D0%BA%D1%83.pdf) тестирования ручки.
 
@@ -78,7 +48,7 @@
 ### Задание 9: Задание с [XML](/Задание%209_XML/xml.md)
 **XML** расширяемый язык разметки, который используется для хранения и передачи данных. Его можно увидеть не только в API, но и в коде. Часто используется для передачи данных по API.
 
-**Изучено создание XML-файла в [jsonformatter](/https://jsonformatter.org/xml-parser) с вложенными тегами, самозакрывающимся тегом, атрибутами (минимум 2) в любом из тегов.**
+**Изучено создание XML-файла в [jsonformatter](https://jsonformatter.org/xml-parser) с вложенными тегами, самозакрывающимся тегом, атрибутами (минимум 2) в любом из тегов.**
 
 ### Работа с [Selenium IDE](/Selenium/selenium.md)
 **Selenium IDE** - простое в использовании расширение к браузеру, которое помогает разрабатывать тестовые сценарии веб-страниц. Он записывает определенный сценарий поведения пользователя на сайте, а потом воспроизводит записанные действия в автоматическом режиме.
