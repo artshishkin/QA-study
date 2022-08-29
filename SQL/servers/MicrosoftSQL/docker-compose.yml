@@ -1,0 +1,26 @@
+version: '3.8'
+
+#volumes:
+#  ms_sql_data:
+
+services:
+  ms_sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+#    volumes:
+#      - ms_sql_data:/sql/data
+#      - ms_sql_data:/var/opt/mssql/data
+    environment:
+      ACCEPT_EULA: Y
+      MSSQL_SA_PASSWORD: 'kate_Pa55w0rd'
+      MSSQL_PID: Developer
+      MSSQL_DATA_DIR: /sql/data
+    ports:
+      - "1433:1433"
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 9082:8080
+    environment:
+      ADMINER_DEFAULT_SERVER: ms_sql:1433
