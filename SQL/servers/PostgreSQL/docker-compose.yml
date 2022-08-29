@@ -1,0 +1,25 @@
+version: '3.8'
+
+volumes:
+  postgres_data:
+    driver: local
+
+services:
+  postgres:
+    image: postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: kate_db
+      POSTGRES_USER: kate_user
+      POSTGRES_PASSWORD: kate_password
+    ports:
+      - "25432:5432"
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 9082:8080
+    environment:
+      ADMINER_DEFAULT_SERVER: postgres:5432
